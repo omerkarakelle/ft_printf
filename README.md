@@ -1,2 +1,2 @@
 # ft_printf
-A copy of printf function in C language.
+A clone of printf function in C language.
